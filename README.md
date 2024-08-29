@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasAlanderson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img style="border-radius: 50%" align="right" height="200" width="200" src="https://qph.cf2.quoracdn.net/main-qimg-9efc9e0aec6971f47502c50e1b73f80e-lq"  />
+<img align="right" height="200" width="200" src="https://qph.cf2.quoracdn.net/main-qimg-9efc9e0aec6971f47502c50e1b73f80e-lq"  />
 
 
 <div align="left">
